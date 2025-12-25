@@ -25,7 +25,7 @@ python-dsa-patterns/
 ## ✨ Follow Along
 
 - 📸 Instagram: [@python_scripts](https://instagram.com/python_scripts)
-- 📝 Blog: [AW Dev Rethought](https://awdevrethought.abhijithwarrier.in)
+- 📝 Blog: [AW Dev Rethought](https://awdevrethought.com)
 - 💬 Discord: [AW Dev Rethought](https://discord.gg/NWPwSrZ296)
 
 ---
